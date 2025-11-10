@@ -63,8 +63,14 @@ This project is part of the **Web Integrator training course – OpenClassrooms*
    ```bash
    git clone https://github.com/Julie-Des/Projet5-oc
    ```
-   
-2.  **Open `index.html` in your web browser.** No server setup is required as it's a static website.
+
+2.  Navigate to the project directory:
+
+    ```bash
+    cd Projet5-oc
+    ```
+    
+3.  **Open `index.html` in your web browser.** No server setup is required as it's a static website.
 
 ### Running Locally
 
